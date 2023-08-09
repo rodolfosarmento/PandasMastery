@@ -23,7 +23,7 @@ df.info(memory_usage="deep")
 
 # %%
 
-tipo_colunas = df.dtypes
+tipo_colunas = df.dtypes # Mostra os tipos de objetos
 tipo_colunas
 
 # %%
@@ -32,8 +32,8 @@ df
 
 # %%
 
-df.head(20)
+df.head(20) # Primeiras 20 linhas
 
 # %%
 
-df.tail(5)
+df.tail(5) # ùltimas 5 linhas

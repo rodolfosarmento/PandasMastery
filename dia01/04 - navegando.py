@@ -42,5 +42,5 @@ df_sample.iloc[0:4][["idPedido", "dtPedido"]]
 
 # loc trabalha com o índice
 
-df_sample.loc[[1064,837]]
+df_sample.loc[[891,216]]
 # %%
