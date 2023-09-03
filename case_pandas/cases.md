@@ -1,4 +1,4 @@
-Téo Me Pizza
+LaPizza
 
 Nossa pizzaria esta crescendo e precisamos tomar algumas decisões de negócio. Para isso, vamos buscar responder algumas perguntas por meio dos dados.
 
